@@ -10,17 +10,17 @@
 
 <div align="center">
  
- 🔭 I’m enthusiastic about **Internet of things, Computer Vision, Machine Learning, Electronic product design, Robotics and automation.**
+  I’m enthusiastic about **Robotics and automation, Computer Vision, Machine Learning, Electronic circuit design.**
  
-💬 Ask me about **anything related to my interests [here](mailto:uvindukodikara@gmail.com)**
+💬 Ask me about **anything related to my interests [here](mailto:kirushanthh13@gmail.com)**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:uvindukodikara@gmail.com">
+  <a href="mailto:kirushanthh13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/uvindu-kodikara" target="_blank">
+  <a href="https://www.linkedin.com/in/kirushanth-gobalakrishnan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://medium.com/@uvindukodikara" target="_blank">
