@@ -20,14 +20,14 @@
   <a href="mailto:kirushanthh13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/kirushanth-gobalakrishnan" target="_blank">
+  <a href="https://www.linkedin.com/in/kirushanth-gobalakrishnan-4a8173285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://medium.com/@uvindukodikara" target="_blank">
      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://github.com/uvinduuu" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<!--   <a href="https://github.com/Kirushanth-G" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options --> -->
   </a>
 </div>
 
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,cpp,github,arduino,matlab,pytorch,tensorflow,opencv,sklearn" />
-    <img src="https://skillicons.dev/icons?i=python,photoshop,latex,nodejs,ros,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,cpp,ros,github,arduino,matlab,pytorch,tensorflow,opencv,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,latex,ros,raspberrypi" /><br>
 </div>
 
 <br/>
@@ -52,8 +52,13 @@
 </div>
 
 <hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-g&show_icons=true&locale=en&layout=compact" alt="kirushanth-g" /></p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirushanth-g&show_icons=true&locale=en" alt="kirushanth-g" /></p>
+
+
+
+
 <br>
 <!-- <div align="center">
   <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=uvinduuu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -62,7 +67,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvinduuu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div> -->
 
-<br/><br/>
+
 
 <hr/>
 
