@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirushanth!;+Java+Spring+Boot+%7C+React+Developer;+Electronics+Enthusiast" />
 </h1>
 
-<h3 align="center">Java Developer | Electronics & Telecommunication Engineering Undergraduater</h3>
+<h3 align="center">Java Developer | Electronics & Telecommunication Engineering Undergraduate</h3>
 
 <br/>
 
